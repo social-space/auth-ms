@@ -1,4 +1,5 @@
-#Identity Microservice
+Identity Microservice
+---------------------
 
 Right now just pointing at Auth0. The sole purpose of this service is to be a central 
 point for identity management. Not user management. So, effectively,
