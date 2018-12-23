@@ -1,0 +1,19 @@
+auth:
+  Auth0:
+    domain:
+    clientId:
+    clientSecret:
+    callbackUrl:
+
+services:
+  domain: localhost
+  secure: false
+
+db:
+  uri: mongodb://root:rootpw@mongo:27017/identities?authSource=admin
+
+keys:
+  jwt:
+    public: |
+
+    private: |
